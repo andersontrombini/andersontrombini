@@ -1,7 +1,7 @@
 ### Olá, eu sou o Anderson Trombini 👋
 
 - 🔭 Atualmente trabalho com system analysis
-- 🌱 Estudo dev web full stack
+- 🌱 Estagiando na empresa Cartório Blasco como Dev.Full Stack
 
 ##
 <div align="center">
